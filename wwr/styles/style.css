@@ -126,7 +126,10 @@ main section .card-img{
 #background {
     height: 725px;
     background-color: var(--secondary-color);
-    margin-bottom: 100px;
+}
+
+.mountains{ 
+    margin: 100px;
 }
 
 .msg {
